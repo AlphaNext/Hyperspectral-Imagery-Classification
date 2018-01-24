@@ -3,8 +3,6 @@
 
 # Classiﬁcation of Hyperspectral Imagery Using a New Fully Convolutional Neural Network
 
--------------------
-
 ## 1. Abstract
 With success of convolutional neural networks (CNNs) in computer vision, the CNN has attracted great atten-tion in hyperspectral classiﬁcation. Many deep learning-based algorithms have been focused on deep feature extraction for classiﬁcation improvement. In this letter, a novel deep learning framework for hyperspectral classiﬁcation based on a fully CNN is proposed. Through convolution, deconvolution, and pooling layers, the deep features of hyperspectral data are enhanced. **After feature enhancement, the optimized extreme learning machine (ELM) is utilized for classiﬁcation**. The proposed framework outperforms the existing CNN and other traditional classiﬁcation algorithms by including deconvolution layers and an optimized ELM. Experimental results demonstrate that it can achieve outstanding hyperspectral classiﬁcation performance.
 
