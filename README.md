@@ -1,5 +1,5 @@
 
-    高光谱图像快速了解(Hyperspectral Image Introduction.md)
+    高光谱图像快速了解(Hyperspectral_Image_Introduction.md)
 
 # Classiﬁcation of Hyperspectral Imagery Using a New Fully Convolutional Neural Network
 
