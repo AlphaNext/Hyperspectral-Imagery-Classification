@@ -28,7 +28,7 @@ With success of convolutional neural networks (CNNs) in computer vision, the CNN
 
 ## 4. Results
 
-### 4.1 Enhanced Features
+### 4.1 Classification Maps
 
 ![Indian_pine](images/Indian_pine_feature.png)
 
